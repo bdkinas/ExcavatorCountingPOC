@@ -79,7 +79,6 @@ python tuned_scoop_counter.py video.mp4 --output results.mp4
 
 ## 📊 Performance
 
-- **Target Range**: 20-40 scoops for typical construction videos
 - **Processing Speed**: ~2-5x real-time (depending on frame skip)
 - **Accuracy**: Temporal filtering eliminates over-counting issues
 - **Detection**: YOLOv11 provides 70% faster inference than YOLOv8
