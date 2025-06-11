@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Tuned Scoop Counter - Final Version
-Optimized to detect 20-40 scoops for the video with minimal over-counting
-Uses relaxed proximity detection with smart temporal filtering
+
 """
 
 import cv2
