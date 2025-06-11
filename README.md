@@ -103,13 +103,6 @@ python tuned_scoop_counter.py video.mp4 --output results.mp4
 4. **Temporal Filtering**: Complete cycles (not frame-by-frame detection)
 5. **Scoop Validation**: Duration and cooldown checks prevent over-counting
 
-## 📈 Results
-
-For the included test video:
-- **64 scoops detected** with optimized parameters
-- **Average duration**: ~9 seconds per scoop
-- **Elimination** of frame-by-frame over-counting issue
-
 ## 🤝 Contributing
 
 This system was developed to solve the over-counting problem in excavator scoop detection through research-based temporal filtering and zone-based tracking approaches.
