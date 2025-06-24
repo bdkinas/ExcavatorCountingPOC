@@ -2,6 +2,10 @@
 
 AI-powered system for counting excavator scoops delivered into truck beds using computer vision and YOLOv11.
 
+## Watch the Demo
+[![Watch the video](https://youtu.be/FOclvHkpBvY)](https://youtu.be/FOclvHkpBvY)
+
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
